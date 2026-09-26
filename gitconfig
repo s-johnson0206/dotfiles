@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yamagishi.sayuri0206@gmail.com
+	name = Sayuri Johnson
